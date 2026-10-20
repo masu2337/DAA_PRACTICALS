@@ -1,2 +1,12 @@
-# DAA_PRACTICALS
-All 12 practicals in DAA
+https://github.com/masu2337/DAA_practical1
+https://github.com/masu2337/DAA_practical2
+https://github.com/masu2337/practical_3
+https://github.com/masu2337/practical_4
+https://github.com/masu2337/practical_5
+https://github.com/masu2337/practical_6
+https://github.com/masu2337/practical_7
+https://github.com/masu2337/daa_practical8
+https://github.com/masu2337/daa_practical9
+https://github.com/masu2337/daa_practical10
+https://github.com/masu2337/daa_practical11
+https://github.com/masu2337/daa_practical_12
