@@ -1,12 +1,12 @@
-https://github.com/masu2337/DAA_practical1
-https://github.com/masu2337/DAA_practical2
-https://github.com/masu2337/practical_3
-https://github.com/masu2337/practical_4
-https://github.com/masu2337/practical_5
-https://github.com/masu2337/practical_6
-https://github.com/masu2337/practical_7
-https://github.com/masu2337/daa_practical8
-https://github.com/masu2337/daa_practical9
-https://github.com/masu2337/daa_practical10
-https://github.com/masu2337/daa_practical11
-https://github.com/masu2337/daa_practical_12
+PRACTICAL1: https://github.com/masu2337/DAA_practical1
+PRACTICAL2: https://github.com/masu2337/DAA_practical2
+PRACTICAL3: https://github.com/masu2337/practical_3
+PRACTICAL4: https://github.com/masu2337/practical_4
+PRACTICAL5: https://github.com/masu2337/practical_5
+PRACTICAL6: https://github.com/masu2337/practical_6
+PRACTICAL7: https://github.com/masu2337/practical_7
+PRACTICAL8: https://github.com/masu2337/daa_practical8
+PRACTICAL9: https://github.com/masu2337/daa_practical9
+PRACTICAL10: https://github.com/masu2337/daa_practical10
+PRACTICAL11: https://github.com/masu2337/daa_practical11
+PRACTICAL12: https://github.com/masu2337/daa_practical_12
